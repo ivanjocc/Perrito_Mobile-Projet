@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Perrito_Projet</string>
+    <string-array name="categories_array">
+        <item>Personal</item>
+        <item>Professional</item>
+        <item>Home</item>
+    </string-array>
+</resources>
